@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/aaaem-sites-eds-poc/:/",
+    "/content/aaaem-sites-eds-poc/configuration:/.helix/config.json",
+    "/content/aaaem-sites-eds-poc/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/aaaem-sites-eds-poc/"
+  ]
+}
