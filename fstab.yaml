@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p48761-e275513.adobeaemcloud.com/bin/franklin.delivery/gudurkk/aaaem-sites-eds-poc/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://drive.google.com/drive/u/0/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
